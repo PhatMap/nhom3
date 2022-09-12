@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+h1{
+    color: teal;
+}
+label{
+    float: left;
+    width: 6cm;
+    margin-bottom: 0.5cm;
+}
+input[type="text"], input[type="email"]{
+    width: 15cm;
+    margin-left: 0.5cm;
+    margin-bottom: 0.5cm;
+}
+br {
+    clear: both;
+}
+#submit{
+    margin-left: 0.5cm;
+}
